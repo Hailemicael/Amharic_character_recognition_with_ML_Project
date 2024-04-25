@@ -128,7 +128,7 @@ After the transformation of the data through PCA and subsequent application of L
 Additionally, confusion matrices and classification reports are generated to provide deeper insights into the models' performance across different classes of Amharic characters.
 
 ## Results
-The results of the experiments demonstrate the effectiveness of the proposed approach in accurately classifying Amharic characters. Each model, whether trained before PCA, after PCA, or after LDA, achieves high accuracy and demonstrate improvement in handling variations in handwriting styles and character shapes.
+The results of the experiments demonstrate the effectiveness of the proposed approach in accurately classifying Amharic characters. Each model, trained before PCA, after PCA, or after LDA, achieves high accuracy and demonstrates improvement in handling variations in handwriting styles and character shapes.
 
 ![confusion_matrix_SVM_after apply PCA ](https://github.com/Hailemicael/Amharic-Character-Recognition-with-ML/blob/master/confusion_matrix_SVM_after%20applying%20PCA.png)
 
