@@ -140,5 +140,5 @@ Its focus on the Amharic script addresses the specific needs of regions where th
 Furthermore, its open-source nature encourages collaboration and innovation, allowing developers and researchers to contribute to its improvement and expansion. This collaborative effort fosters technological advancement and literacy in Amharic-speaking regions.
 
 
-## Contributors
+## Contributor
 Hailemicael Lulseged Yimer
